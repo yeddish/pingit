@@ -2,5 +2,5 @@
 Ping utility in python
 
 Usage:
-pingit.py -h <host/FQDN or IP> -c <number of packets> -s <size of packet>
+pingit.py -h <host/FQDN or IP> -c &lt;number of packets&gt; -s <size of packet>
 
